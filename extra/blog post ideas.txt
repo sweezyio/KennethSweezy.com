@@ -1,7 +1,0 @@
-What maintaining an open source project has taught me || The difficulties of maintaining an open source project
-  Talk about your experience in running an opensource project (gobo.cf) and why it is difficult
-
-
-MAYBE DO THIS ON MEDIUM??????
-
-LOOK INTO A MEDIUM ACCOUNT/DEV.to/USING JEKYLL TO HOST IT HERE
