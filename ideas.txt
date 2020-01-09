@@ -1,0 +1,3 @@
+About page
+    - Fancy fade in once you click the about button.
+        - About button placed between "Kenneth Sweezy" and the sentence.
