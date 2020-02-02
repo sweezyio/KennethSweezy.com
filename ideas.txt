@@ -1,3 +1,5 @@
 About page
     - Fancy fade in once you click the about button.
         - About button placed between "Kenneth Sweezy" and the sentence.
+        
+Change the padding if the window is less than 1140 pixels wide. Currently it looks bad at less than that.
