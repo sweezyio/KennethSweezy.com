@@ -19,6 +19,15 @@ body {
     margin: 0
 }
 
+.navbar-links {
+    color: #9e9e9e;
+    transition: color 0.2s;
+}
+
+.navbar-links:hover {
+    color: lightgrey;
+}
+
 article,
 aside,
 details,
