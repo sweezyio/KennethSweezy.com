@@ -9,6 +9,15 @@ html {
     box-sizing: inherit
 }
 
+.imghover {
+    filter: invert(99%) sepia(1%) saturate(1926%) hue-rotate(201deg) brightness(109%) contrast(65%);
+    height: 2vw;
+}
+
+.imghover:hover {
+    filter: invert(1);
+}
+
 /* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html {
     -ms-text-size-adjust: 100%;
